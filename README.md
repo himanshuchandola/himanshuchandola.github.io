@@ -1,2 +1,1 @@
-# himanshuchandola.github.io
-Personal Website
+Personal Website for Himanshu Chandola
